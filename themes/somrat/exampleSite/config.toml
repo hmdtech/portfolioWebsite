@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "/"
+baseURL = ""
 title = "Freelance Web Designer"
 theme = "somrat"
 # post pagination
